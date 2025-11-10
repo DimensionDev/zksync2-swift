@@ -33,16 +33,16 @@
         "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
         "state": {
           "branch": null,
-          "revision": "d2f7ba14bcdc45e18f4f60ad9df883fb9055f081",
-          "version": "6.15.3"
+          "revision": "93c8d41ce96ed78f36c3948be396d76f3ca3de1b",
+          "version": "6.16.2"
         }
       },
       {
         "package": "Web3swift",
-        "repositoryURL": "https://github.com/zksync-sdk/web3swift",
+        "repositoryURL": "https://github.com/DimensionDev/web3swift-zksync.git",
         "state": {
           "branch": "zksync2-3.1.2",
-          "revision": "0728f7291f84245dbb29bf4e9ef1d910747d9554",
+          "revision": "d8fc9e46d9d2133ef284914810b13edcb13ae3f7",
           "version": null
         }
       }
